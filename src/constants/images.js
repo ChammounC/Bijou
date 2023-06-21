@@ -21,6 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import bijou from '../assets/bijou.png';
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   bg,
   chef,
